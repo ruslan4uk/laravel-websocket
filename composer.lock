@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f113a2ce1f0ed850f2d401e71ff315d0",
+    "content-hash": "802fd175dd904b793428df6f93247e72",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -5030,16 +5030,16 @@
         },
         {
             "name": "facade/ignition",
-            "version": "1.6.4",
+            "version": "1.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facade/ignition.git",
-                "reference": "43b825a2f77805d1d5495c64eecd272b05ab0e33"
+                "reference": "97244f6d511332f3574acab8242c09ddcfda892b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facade/ignition/zipball/43b825a2f77805d1d5495c64eecd272b05ab0e33",
-                "reference": "43b825a2f77805d1d5495c64eecd272b05ab0e33",
+                "url": "https://api.github.com/repos/facade/ignition/zipball/97244f6d511332f3574acab8242c09ddcfda892b",
+                "reference": "97244f6d511332f3574acab8242c09ddcfda892b",
                 "shasum": ""
             },
             "require": {
@@ -5094,7 +5094,7 @@
                 "laravel",
                 "page"
             ],
-            "time": "2019-09-13T07:41:17+00:00"
+            "time": "2019-09-13T13:38:04+00:00"
         },
         {
             "name": "filp/whoops",
@@ -6861,7 +6861,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.2"
+        "php": "^7.3"
     },
     "platform-dev": []
 }
