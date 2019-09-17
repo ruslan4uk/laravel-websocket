@@ -34,7 +34,7 @@
         mounted() {
             window.Echo.channel('chat')
                 .listen('Message', ({message}) => {
-                    // console.log(message);
+                    console.log(message);
                     this.messages.push(message)
                 });
         },

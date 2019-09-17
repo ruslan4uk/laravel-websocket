@@ -20,7 +20,7 @@ class Message implements ShouldBroadcast
     /**
      * Create a new event instance.
      *
-     * @return void
+     * @param $message
      */
     public function __construct($message)
     {
